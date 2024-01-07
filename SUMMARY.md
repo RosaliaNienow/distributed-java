@@ -1,6 +1,6 @@
-# Summary
+! Summary
 
-* [Introduction](README.md)
+ #[Introduction](README.md)
 * [基础概念](docs/basic.md)
 * 划分子系统
     * 一个“超市”发展的例子
@@ -39,3 +39,4 @@
 * To be continued ...未完待续...
 * [参考文献](docs/Ref.md)
 
+ 
